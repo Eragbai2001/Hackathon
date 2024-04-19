@@ -13,7 +13,7 @@ The project addresses the following constraints to enhance timetable management:
 - Users can configure how often subjects appear in the timetable.
 - Settings for maximum daily lectures and working days are adjustable.
 
-![image](https://github.com/JoshIri360/timetable-scheduler/assets/91752742/1c99f9c5-913a-45c4-83f8-3ae50fb73c42)
+![image](https://github.com/Eragbai2001/Hackathon/assets/156032451/5529f2de-d711-4513-a8ae-d3e9fb7274b3)
 
 
 ## 🚀 Installation Guidelines
