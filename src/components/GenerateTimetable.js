@@ -95,7 +95,7 @@ export default function GenerateTimetable({ timetable }) {
       body: JSON.stringify({ userID: firebase.auth().currentUser.uid }),
     };
     setloading(true);
-    fetch("/generate", requestOptions)
+    fetch("https://timetable-scheduler.onrender.com/generate", requestOptions)
       .then((response) => response.json())
       .then(async () => {
         fetchTimetable();
